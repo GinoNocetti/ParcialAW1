@@ -1,0 +1,26 @@
+.card{
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+
+#Agregar{
+    display: block;
+    margin: 10px auto;
+    border-color: #262626;
+    color: black;
+    transition: background-color .7s;
+}
+#Agregar:hover{
+    background-color: #262626;
+    color: white;
+}
+
+.encabezado-tarjeta {
+    background-color: #f0f0f0; /* Color gris suave de fondo */
+    border: none; /* Elimina el borde predeterminado */
+  }
+
+
+
